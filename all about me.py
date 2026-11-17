@@ -1,7 +1,7 @@
 # This program displays my personal information and course goal
 
-name = "Abdimudalib"
-age = 20
+name = "Faisa"
+age = 22
 favourite_language = "Python"
 goal = "to become a good programmer"
 
